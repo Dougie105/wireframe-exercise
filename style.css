@@ -39,20 +39,16 @@ nav>p{
   height: 380px;
   overflow: scroll;
   position: relative;
-  float: right;
+  margin-left: 30px;
+  margin-bottom: 20px
   }
 
 button{
-  float: right;
-  background-color: #DDD;
-  padding: 8px;
-  margin-right: 350px;
-  position: relative
-}
-
-#bottom>p{
-  float: right;
-  padding-top: 20px;
+  position: absolute;
+  margin-right: 330px;
+  margin-left: 30px;
+  margin-top: 382px;
+  width: 100px;
 }
 
 #foot{

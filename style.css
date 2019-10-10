@@ -1,0 +1,62 @@
+body{
+  width: 960px;
+}
+
+nav>p{
+  display: inline-block;
+  margin-left: 4em;
+  margin-right: 4em;
+  margin-bottom: 15px;
+}
+
+#top{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#middle{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.middleimg{
+  padding-left: 26px;
+  padding-right: 26px;
+}
+
+#bottom{
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+
+.bottombar{
+  display: inline-block;
+}
+
+#scrollbar{
+  width: 410px;
+  height: 380px;
+  overflow: scroll;
+  position: relative;
+  float: right;
+  }
+
+button{
+  float: right;
+  background-color: #DDD;
+  padding: 8px;
+  margin-right: 350px;
+  position: relative
+}
+
+#bottom>p{
+  float: right;
+  padding-top: 20px;
+}
+
+#foot{
+  margin-top: 30px;
+  background-color: #DDD;
+  height: 5em;
+}

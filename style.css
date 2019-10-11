@@ -3,10 +3,12 @@ body{
 }
 
 nav>p{
-  display: inline-block;
   margin-left: 4em;
   margin-right: 4em;
   margin-bottom: 15px;
+  margin-top: 30px;
+  float: right;
+
 }
 
 #top{
@@ -49,10 +51,16 @@ button{
   margin-left: 30px;
   margin-top: 382px;
   width: 100px;
+  background-color: #DDD;
+  width: 150px;
 }
 
 #foot{
   margin-top: 30px;
   background-color: #DDD;
   height: 5em;
+}
+
+article>h1{
+  text-align: center;
 }

@@ -55,6 +55,13 @@ button{
   width: 150px;
 }
 
+button:hover {
+  cursor: pointer;
+  transition: ease-in-out;
+  background-color: red;
+  transition-duration:350ms;
+}
+
 #foot{
   margin-top: 30px;
   background-color: #DDD;
